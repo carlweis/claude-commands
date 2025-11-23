@@ -1,2 +1,2 @@
-# claude-commands
-Custom commands for Claude Code
+# Claude Commands
+Custom commands for Claude Code for Professional AI Development
